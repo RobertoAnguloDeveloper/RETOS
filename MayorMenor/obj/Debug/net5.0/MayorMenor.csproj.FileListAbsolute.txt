@@ -1,0 +1,16 @@
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.exe
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.deps.json
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.runtimeconfig.json
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.runtimeconfig.dev.json
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.dll
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\ref\MayorMenor.dll
+C:\wamp64\www\RETOS\MayorMenor\bin\Debug\net5.0\MayorMenor.pdb
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.csproj.AssemblyReference.cache
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.AssemblyInfoInputs.cache
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.AssemblyInfo.cs
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.csproj.CoreCompileInputs.cache
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.dll
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\ref\MayorMenor.dll
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.pdb
+C:\wamp64\www\RETOS\MayorMenor\obj\Debug\net5.0\MayorMenor.genruntimeconfig.cache
