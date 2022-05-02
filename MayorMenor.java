@@ -10,6 +10,8 @@ public class MayorMenor{
         System.out.println("Ingrese el segundo numero");
         int num2 = keyboard.nextInt();
 
+        keyboard.close();
+
         if(num1 > num2){
             System.out.println("El numero mayor es: " + num1 + " y la diferencia entre ambos es: " + (num1 - num2));
         }else if(num1 == num2){
